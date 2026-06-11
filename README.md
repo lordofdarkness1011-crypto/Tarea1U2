@@ -57,8 +57,13 @@ Si no tienes Maven instalado, puedes compilar y ejecutar usando Java directament
 ## Resultados Esperados (Capturas de salida)
 
 **Actividad 2:**
+<br>
 ![Captura Actividad 2](act2.png)
+<br>
 **Actividad 3:**
+<br>
 ![Captura Actividad 3](act3.png)
+<br>
 **Actividad 4:**
+<br>
 ![Captura Actividad 4](act4.png)
